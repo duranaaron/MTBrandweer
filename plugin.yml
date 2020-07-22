@@ -1,0 +1,10 @@
+name: MTBrandweer
+version: 1.5.1
+description: MinetopiaBrandweer Plugin
+author: KaasPlakje
+main: me.KaasPlakje.MinetopiaBrandweer.Main
+
+commands:
+  brandweer:
+    description: Laat het help menu zien.
+    aliases: [bw, brand, brandw]

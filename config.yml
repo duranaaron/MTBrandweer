@@ -1,0 +1,35 @@
+#----------------------------------------#
+#                                        #
+#              MTBrandweer               #
+#            © Aaron Duran               #
+#   https://youtube.com/c/KaasPlakje     #
+#                                        #
+#----------------------------------------#
+
+#-------------------------#
+#       SLANG CONFIG      #
+#-------------------------#
+
+slang_naam: '&cBrandweer Slang' 
+#Laat sectie(s) leeg als je er geen lore wilt
+slang_lore1: '&cBrandweerslang'
+slang_lore2: '&cSchiet waterstraal of sla op de grond om vuur te blussen!'
+
+#-------------------------#
+#     MESSAGES CONFIG     #
+#-------------------------#
+
+slang_perm_bericht: '&cJe hebt niet de permissie &4brandweer.slang&c!'
+slang_gekregen: '&cJe hebt een &4brandweerslang gekregen!'
+meerdere_geblust: '&aJe hebt het vuur geblust!'
+enkele_geblust: '&aJe hebt vuur geblust!'
+vuur_heet: '&cOuch! Dat vuur is heet, daar kun je beter afblijven!'
+bel_brandweer: '&7Je kunt beter de brandweer bellen!'
+gebruik_slang: '&7Je kunt beter je brandweerslang gebruiken!'
+kleding_gekregen: 'wahed kleding gekrgen'
+
+#-------------------------#
+#     PARTICLE CONFIG     #
+#-------------------------#
+
+particle: 'SPLASH'
