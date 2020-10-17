@@ -3,9 +3,7 @@ package me.KaasPlakje.MinetopiaBrandweer.Utils;
 import org.bukkit.ChatColor;
 
 public class Utils {
-
-	public static String chat (String s) {
-		return ChatColor.translateAlternateColorCodes('&', s);
-	}
-	
+    public static String chat(String s) {
+        return ChatColor.translateAlternateColorCodes('&', s);
+    }
 }
